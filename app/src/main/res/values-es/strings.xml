@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">
+Portafolio de acciones</string>
+    <string name="newButton">+</string>
+    <string name="company_name">nombre de empresa</string>
+    <string name="stock_price">Precio de mercado</string>
+    <string name="notify_user"> No tiene acciones en su cartera. Haga clic en \'+\' en la esquina superior
+        derecha de su pantalla para agregar una empresa.</string>
+</resources>

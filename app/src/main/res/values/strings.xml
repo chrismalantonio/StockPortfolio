@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StockPortfolio</string>
+    <string name="newButton">+</string>
+    <string name="company_name">Company Name</string>
+    <string name="stock_price">Stock price</string>
+    <string name="notify_user">You don\'t have any stocks in your portfolio.
+        Click on \'+\' in the top right hand corner of your screen to add a company.</string>
+</resources>
