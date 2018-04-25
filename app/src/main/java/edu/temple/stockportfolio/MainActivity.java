@@ -280,16 +280,4 @@ public class MainActivity extends AppCompatActivity implements NavFragment.Stock
         }
     }
 
-
-//    private void writeToFile(){
-//        try {
-//            FileOutputStream outputStream = new FileOutputStream(file);
-//            String fileContents = "{\"StockList\":[{\"Name\":\"Google\",\"Symbol\":\"GOOG\",\"LastPrice\":\"1089.91\", \"Chart\":\"https://www.google.com/finance/chart?q=goog&p=1d\"}]}";
-//            outputStream.write(fileContents.getBytes());
-//            outputStream.close();
-//        } catch (Exception e){
-//            e.printStackTrace();
-//        }
-//
-//    }
 }
